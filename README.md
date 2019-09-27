@@ -1,6 +1,8 @@
 # Manicomio-Gnome-Theme
 Tema da TCXS Project Manicômio para o gnome-shell.
 
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
 
 Primeiramente tenha a fonte Gravity instalada em seu computador, caso nao tenha ela esta no arquivo para download, instale ela manualmente!

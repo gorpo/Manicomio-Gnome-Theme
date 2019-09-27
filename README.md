@@ -1,7 +1,7 @@
 # Manicomio-Gnome-Theme
 Tema da TCXS Project Manicômio para o gnome-shell.
 
----Como instalar:
+
 
 Primeiramente tenha a fonte Gravity instalada em seu computador, caso nao tenha ela esta no arquivo para download, instale ela manualmente!
 
@@ -17,10 +17,9 @@ $ sudo mkdir .themes
 
 
 Changelog1.0:
-
--adicionado menus de audio e microfone com as barras deslizantes vermelhas.
--adicionado a  barra do gnome em tom gradiente cinza e bordas arredondadas.
--imagem de perfil do usuario aumentada
--bordas dos botoes de comando power/logout/configuraçoes em vermelho e quadradas e arredondadas.
--fonte utilizada Gravity, caso queira outra fonte ja instalada em seu sistema alterar a fonte no css
+<p>adicionado menus de audio e microfone com as barras deslizantes vermelhas.</p>
+<p>adicionado a  barra do gnome em tom gradiente cinza e bordas arredondadas.</p>
+<p>imagem de perfil do usuario aumentada.</p>
+<p>bordas dos botoes de comando power/logout/configuraçoes em vermelho e quadradas e arredondadas.</p>
+<p>fonte utilizada Gravity, caso queira outra fonte ja instalada em seu sistema alterar a fonte no css</p>
 

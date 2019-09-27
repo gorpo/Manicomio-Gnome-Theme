@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Manicomio", 
+   "author": "G0Rp0 TCXS Project", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png",
+   "url": "https://tcxsproject.com.br"
+    }
+}
